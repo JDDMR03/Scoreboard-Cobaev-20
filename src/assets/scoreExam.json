@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "usuario": "ZEGS04",
+    "nombre": "Zadkiel Efrain Garcia Sosa",
+    "A": 100,
+    "B": 100,
+    "C": 100,
+    "Total": 400
+  },
+  {
+    "id": 2,
+    "usuario": "florenciamartinezrolon",
+    "nombre": "Florencia Martínez Rolón",
+    "A": 100,
+    "B": 100,
+    "C": 100,
+    "D": 100,
+    "Total": 400
+  },
+  {
+    "id": 3,
+    "usuario": "Ariadna.TL",
+    "nombre": "Martha Ariadna Tejeda Lagunes",
+    "A": 100,
+    "B": 0,
+    "C": 54.55,
+    "D": 0,
+    "Total": 154.55
+  },
+  {
+    "id": 4,
+    "usuario": "Jav_Ameca",
+    "nombre": "Angy Javsil MuñozAmeca",
+    "A": 3.33,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "Total": 0
+  },
+  {
+    "id": 5,
+    "usuario": "kay_dsmo",
+    "nombre": "Dafne Sherlyn Meza Osorio",
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0,
+    "Total": 0
+  }
+]
