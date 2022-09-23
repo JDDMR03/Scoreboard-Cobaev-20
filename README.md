@@ -30,4 +30,4 @@ npm run dev
 ```sh
 npm run build
 ```
-#[Website](https://scoreboard-seleccion-cobaev-20.web.app/#/)
+# [Website](https://scoreboard-seleccion-cobaev-20.web.app/#/)
